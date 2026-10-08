@@ -1,0 +1,105 @@
+{
+    "version": 1,
+    "screen": {
+        "width": 1920,
+        "height": 1080
+    },
+    "head_camera_distance_cm": 78.0,
+    "camera": {
+        "index": 0,
+        "width": 640,
+        "height": 480
+    },
+    "points": [
+        {
+            "name": "TOP_LEFT",
+            "screen": {
+                "normalized_x": 0.02,
+                "normalized_y": 0.02,
+                "pixel_x": 38,
+                "pixel_y": 21
+            },
+            "finger": {
+                "x": 0.32870960235595703,
+                "y": 0.4018895626068115
+            },
+            "head": {
+                "x": 0.5271958559751511,
+                "y": 0.41723768413066864
+            },
+            "head_camera_distance_cm": 78.0
+        },
+        {
+            "name": "TOP_RIGHT",
+            "screen": {
+                "normalized_x": 0.98,
+                "normalized_y": 0.02,
+                "pixel_x": 1881,
+                "pixel_y": 21
+            },
+            "finger": {
+                "x": 0.8648210167884827,
+                "y": 0.4257500171661377
+            },
+            "head": {
+                "x": 0.5325246155261993,
+                "y": 0.413800448179245
+            },
+            "head_camera_distance_cm": 78.0
+        },
+        {
+            "name": "CENTER",
+            "screen": {
+                "normalized_x": 0.5,
+                "normalized_y": 0.5,
+                "pixel_x": 960,
+                "pixel_y": 540
+            },
+            "finger": {
+                "x": 0.5597001910209656,
+                "y": 0.6118541955947876
+            },
+            "head": {
+                "x": 0.5322818607091904,
+                "y": 0.41648465394973755
+            },
+            "head_camera_distance_cm": 78.0
+        },
+        {
+            "name": "BOTTOM_LEFT",
+            "screen": {
+                "normalized_x": 0.02,
+                "normalized_y": 0.98,
+                "pixel_x": 38,
+                "pixel_y": 1058
+            },
+            "finger": {
+                "x": 0.32205551862716675,
+                "y": 0.7646108865737915
+            },
+            "head": {
+                "x": 0.5291070938110352,
+                "y": 0.4186035841703415
+            },
+            "head_camera_distance_cm": 78.0
+        },
+        {
+            "name": "BOTTOM_RIGHT",
+            "screen": {
+                "normalized_x": 0.98,
+                "normalized_y": 0.98,
+                "pixel_x": 1881,
+                "pixel_y": 1058
+            },
+            "finger": {
+                "x": 0.8844590187072754,
+                "y": 0.8805487155914307
+            },
+            "head": {
+                "x": 0.5326596200466156,
+                "y": 0.41671519726514816
+            },
+            "head_camera_distance_cm": 78.0
+        }
+    ]
+}
